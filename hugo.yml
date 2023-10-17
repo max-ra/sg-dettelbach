@@ -1,0 +1,30 @@
+baseURL: 'https://sg-dettelbach.de'
+languageCode: 'de-de'
+title: 'Schützengesellschaft Dettelbach von 1471 e.V.'
+theme: "PaperMod"
+sectionPagesMenu: main
+
+menu:
+  main:
+    - name: Home
+      pageRef: /
+      weight: 10
+
+Params:
+  ShowReadingTime: true
+  ShowBreadCrumbs: true
+  editPost:
+    URL: "https://scm.rauch.lan/Rauch-IT/cwb_maintenance/src/branch/master/maintenance"
+    Text: "Änderungen vorschlagen" # edit text
+    appendFilePath: true # to append file path to Edit link
+  homeInfoParams:
+    Title: "SG Dettelbach"
+    Content: >
+      Hallo und Wilkommen auf der Webseite der Schützengesellschaft Dettelbach. Wenn du uns Besuchen möchtest so bist du Herzlich eingeladen jeden Dienstag ab 19:00 Uhr bei uns vorbei zu schauen. Das Schützenhaus befindet sich **Am Felsenkeller 1, 97337 Dettelbach**
+  socialIcons:
+    - name: "phone"
+      url: "tel:093244427"
+    - name: "email"
+      url: "mailto:info@sg-dettelbach.de"
+        
+
