@@ -22,8 +22,6 @@ Params:
     Content: >
       Hallo und Wilkommen auf der Webseite der Schützengesellschaft Dettelbach. Wenn du uns Besuchen möchtest, so bist du Herzlich eingeladen jeden Dienstag ab 19:00 Uhr bei uns vorbei zu schauen. Das Schützenhaus befindet sich **Am Felsenkeller 1, 97337 Dettelbach**
   socialIcons:
-    - name: "phone"
-      url: "tel:093244427"
     - name: "email"
       url: "mailto:info@sg-dettelbach.de"
         
